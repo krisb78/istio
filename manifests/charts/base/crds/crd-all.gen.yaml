@@ -6072,8 +6072,6 @@ spec:
                       description: JSON Web Key Set of public keys to validate signature
                         of the JWT.
                       type: string
-                    jwks_uri:
-                      type: string
                     jwksUri:
                       type: string
                     outputPayloadToHeader:
